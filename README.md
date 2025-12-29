@@ -1,2 +1,2 @@
 # ARM-Projects
-This repository provides an organized collection of my ARM development projects.
+This repository provides an organized collection of my ARM (STM32) development projects.
